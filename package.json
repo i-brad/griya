@@ -34,6 +34,7 @@
     "metro-resolver": "^0.73.7"
   },
   "name": "griya",
+  "main": "index.js",
   "version": "1.0.0",
   "private": true
 }
